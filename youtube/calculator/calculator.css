@@ -1,0 +1,29 @@
+#maindiv{
+    border: 2px solid rgb(44, 43, 43);
+    width: 200px;
+    border-radius: 5px;
+}
+#container{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+#btn{
+    height: 45px;
+    width: 45px;
+    margin: 3px;
+    font-size: 25px;
+
+}
+#display{
+    font-size: 25px;
+    margin: 10px;
+    width: 85%;
+    color: red;
+}
+body{
+    justify-content: center;
+    align-items: center;text-align: center;
+    display: flex;
+    flex-direction: column;
+}
